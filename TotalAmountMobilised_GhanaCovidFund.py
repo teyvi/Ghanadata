@@ -7,6 +7,6 @@ import pandas as pd
 df = pd.DataFrame({'2020_amount':[1203715085.77,5566676161.54,398745781.93,569617581.78,10000000000.00,827794389.62], 'funding_source':["GOG Contingency Fund", "IMF", "AfDB", "EU", "BOG-COVID-19 BONDS","Other GoG"] })
 
 # plot it
-squarify.plot(sizes=df['2020_amount'], label=df['funding_source'], alpha=.6 )
+squarify.plot(sizes=df['2020_amount'], label=df['funding_source'], alpha=.9 )
 plt.axis('off')
 plt.show()
