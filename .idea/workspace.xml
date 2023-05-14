@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30d37159-62a7-433c-b8c9-7daddac53e34" name="Changes" comment="changing alpha">
-      <change beforePath="$PROJECT_DIR$/data/John_Mahama_Primaries_2023.md" beforeDir="false" afterPath="$PROJECT_DIR$/data/John_Mahama_Primaries_2023.md" afterDir="false" />
+    <list default="true" id="30d37159-62a7-433c-b8c9-7daddac53e34" name="Changes" comment="added table">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675080827242</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added table">
+      <created>1684016189160</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684016189160</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +111,7 @@
     <MESSAGE value="Total amount mobilised 2020" />
     <MESSAGE value="added data" />
     <MESSAGE value="changing alpha" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing alpha" />
+    <MESSAGE value="added table" />
+    <option name="LAST_COMMIT_MESSAGE" value="added table" />
   </component>
 </project>
